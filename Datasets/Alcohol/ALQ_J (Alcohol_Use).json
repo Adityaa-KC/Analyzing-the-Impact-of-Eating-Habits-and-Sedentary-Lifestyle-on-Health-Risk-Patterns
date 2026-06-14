@@ -1,0 +1,12 @@
+{
+    "SEQN": "Respondent sequence number",
+    "ALQ111": "Ever had a drink of any kind of alcohol",
+    "ALQ121": "Past 12 mo how often have alcohol drink",
+    "ALQ130": "Avg # alcohol drinks/day - past 12 mos",
+    "ALQ142": "# days have 4 or 5 drinks/past 12 mos",
+    "ALQ270": "# times 4-5 drinks in 2 hrs/past 12 mos",
+    "ALQ280": "# times 8+ drinks in 1 day/past 12 mos",
+    "ALQ290": "# times 12+ drinks in 1 day/past 12 mos",
+    "ALQ151": "Ever have 4/5 or more drinks every day?",
+    "ALQ170": "Past 30 days # times 4-5 drinks on an oc"
+}
