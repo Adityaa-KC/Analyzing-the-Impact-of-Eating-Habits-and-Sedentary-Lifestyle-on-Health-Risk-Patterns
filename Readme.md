@@ -636,7 +636,7 @@ The generated intermediate datasets make it possible to inspect the transformati
 ## 1. Clone the repository
 
 ```bash
-git clone [REPOSITORY_URL](https://github.com/Adityaa-KC/Analyzing-the-Impact-of-Eating-Habits-and-Sedentary-Lifestyle-on-Health-Risk-Patterns.git)
+git clone (https://github.com/Adityaa-KC/Analyzing-the-Impact-of-Eating-Habits-and-Sedentary-Lifestyle-on-Health-Risk-Patterns.git)
 cd Analyzing the Impact of Eating Habits and Sedentary Lifestyle on Health Risk Patterns
 ```
 
@@ -766,7 +766,7 @@ The main takeaway is not that the population can be divided into two perfectly d
 
 **Aditya Kumar Chaudhary**
 
-B.Sc. (Hons) Computer Science, II Year  
+B.Sc. (Hons) Computer Science, III Year  
 Acharya Narendra Dev College, University of Delhi
 
 Project conducted as part of the **ELITE Summer Research Project, 2026**.
